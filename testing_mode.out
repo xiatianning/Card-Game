@@ -1,0 +1,2166 @@
+How many players?
+Invalid input! Input again?
+Card value?
+
+Heads:
+1: 2J (1)
+
+Players:
+Player 1: 53 (53 draw, 0 discard)
+Player 2: 54 (54 draw, 0 discard)
+
+Player 2, it is your turn.
+
+Heads:
+1: 2J (1)
+
+Players:
+Player 1: 53 (53 draw, 0 discard)
+Player 2: 53 (53 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 5H. Your move?
+Card value?
+Suit?
+Player 2, you are holding a 5H. Your move?
+Card value?
+Suit?
+Card value?
+Suit?
+
+Heads:
+2: KD (1)
+3: 2D (1)
+
+Players:
+Player 1: 53 (53 draw, 0 discard)
+Player 2: 53 (51 draw, 2 discard)
+
+Player 1, it is your turn.
+
+Heads:
+2: KD (1)
+3: 2D (1)
+
+Players:
+Player 1: 52 (52 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 53 (51 draw, 2 discard)
+
+Card value?
+Card value?
+Card value?
+Suit?
+Suit?
+Player 1, you are holding a 5S. Your move?
+
+Heads:
+2: 5S (2)
+3: 2D (1)
+
+Players:
+Player 1: 51 (51 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 53 (51 draw, 2 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 5S. Your move?
+
+Heads:
+2: 5S (3)
+3: 2D (1)
+
+Players:
+Player 1: 51 (51 draw, 0 discard)
+Player 2: 53 (51 draw, 2 discard)
+
+Player 2, it is your turn.
+
+Heads:
+2: 5S (3)
+3: 2D (1)
+
+Players:
+Player 1: 51 (51 draw, 0 discard)
+Player 2: 52 (50 draw, 2 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 5C. Your move?
+
+Heads:
+2: 5C (4)
+3: 2D (1)
+
+Players:
+Player 1: 51 (51 draw, 0 discard)
+Player 2: 52 (50 draw, 2 discard)
+
+Player 1, it is your turn.
+
+Heads:
+2: 5C (4)
+3: 2D (1)
+
+Players:
+Player 1: 50 (50 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 52 (50 draw, 2 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a KC. Your move?
+
+Heads:
+2: 5C (4)
+3: 2D (1)
+
+Players:
+Player 1: 49 (49 draw, 0 discard) + 1 in hand, 0 remaining, 1 in reserve
+Player 2: 52 (50 draw, 2 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a AC. Your move?
+
+Heads:
+2: 5C (4)
+3: AC (2)
+
+Players:
+Player 1: 50 (50 draw, 0 discard)
+Player 2: 52 (50 draw, 2 discard)
+
+Player 2, it is your turn.
+
+Heads:
+2: 5C (4)
+3: AC (2)
+
+Players:
+Player 1: 50 (50 draw, 0 discard)
+Player 2: 51 (49 draw, 2 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a AD. Your move?
+
+Heads:
+2: 5C (4)
+3: AD (3)
+
+Players:
+Player 1: 50 (50 draw, 0 discard)
+Player 2: 51 (49 draw, 2 discard)
+
+Player 1, it is your turn.
+
+Heads:
+2: 5C (4)
+3: AD (3)
+
+Players:
+Player 1: 49 (49 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 51 (49 draw, 2 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 9D. Your move?
+
+Heads:
+2: 5C (4)
+3: AD (3)
+
+Players:
+Player 1: 48 (48 draw, 0 discard) + 1 in hand, 0 remaining, 1 in reserve
+Player 2: 51 (49 draw, 2 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 8C. Your move?
+
+Heads:
+2: 5C (4)
+3: AD (3)
+
+Players:
+Player 1: 48 (48 draw, 0 discard) + 1 in hand, 0 remaining, 1 in reserve
+Player 2: 51 (49 draw, 2 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 7C. Your move?
+Card value?
+Suit?
+Player 1, you are holding a 7C. Your move?
+
+Heads:
+2: 5C (4)
+3: 7C (4)
+
+Players:
+Player 1: 49 (49 draw, 0 discard)
+Player 2: 51 (49 draw, 2 discard)
+
+Player 2, it is your turn.
+
+Heads:
+2: 5C (4)
+3: 7C (4)
+
+Players:
+Player 1: 49 (49 draw, 0 discard)
+Player 2: 50 (48 draw, 2 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a JD. Your move?
+invalid character!
+invalid character!
+invalid character!
+invalid character!
+invalid character!
+invalid character!
+invalid character!
+Card value?
+Suit?
+Player 2, you are holding a JD. Your move?
+Card value?
+Suit?
+Player 2, you are holding a JS. Your move?
+Card value?
+Suit?
+Player 2, you are holding a JS. Your move?
+
+Heads:
+2: 5C (4)
+3: 7C (4)
+
+Players:
+Player 1: 49 (49 draw, 0 discard)
+Player 2: 49 (47 draw, 2 discard) + 1 in hand, 0 remaining, 1 in reserve
+
+Card value?
+Player 2, you are holding a Joker. Your move?
+Joker value?
+Card value?
+Card value?
+Suit?
+
+Heads:
+3: 7C (4)
+4: 2J (1)
+5: AS (1)
+
+Players:
+Player 1: 49 (49 draw, 0 discard)
+Player 2: 53 (46 draw, 7 discard)
+
+Player 1, it is your turn.
+
+Heads:
+3: 7C (4)
+4: 2J (1)
+5: AS (1)
+
+Players:
+Player 1: 48 (48 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 53 (46 draw, 7 discard)
+
+Card value?
+Card value?
+Player 1, you are holding a Joker. Your move?
+Joker value?
+Card value?
+Player 1, you are holding a Joker. Your move?
+Joker value?
+Card value?
+Player 1, you are holding a Joker. Your move?
+Joker value?
+
+Heads:
+3: 5J (5)
+4: 2J (1)
+5: AS (1)
+
+Players:
+Player 1: 47 (47 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 53 (46 draw, 7 discard)
+
+Card value?
+Player 1, you are holding a Joker. Your move?
+
+Heads:
+3: 5J (5)
+4: 2J (1)
+5: AS (1)
+
+Players:
+Player 1: 46 (46 draw, 0 discard) + 1 in hand, 0 remaining, 1 in reserve
+Player 2: 53 (46 draw, 7 discard)
+
+Card value?
+Player 1, you are holding a Joker. Your move?
+
+Heads:
+3: 5J (5)
+4: 2J (1)
+5: AS (1)
+
+Players:
+Player 1: 46 (46 draw, 0 discard) + 1 in hand, 0 remaining, 1 in reserve
+Player 2: 53 (46 draw, 7 discard)
+
+Card value?
+Player 1, you are holding a Joker. Your move?
+Joker value?
+
+Heads:
+3: 5J (5)
+4: 2J (2)
+5: AS (1)
+
+Players:
+Player 1: 47 (47 draw, 0 discard)
+Player 2: 53 (46 draw, 7 discard)
+
+Player 2, it is your turn.
+
+Heads:
+3: 5J (5)
+4: 2J (2)
+5: AS (1)
+
+Players:
+Player 1: 47 (47 draw, 0 discard)
+Player 2: 52 (45 draw, 7 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Player 2, you are holding a Joker. Your move?
+Joker value?
+
+Heads:
+3: 5J (6)
+4: 2J (2)
+5: AS (1)
+
+Players:
+Player 1: 47 (47 draw, 0 discard)
+Player 2: 52 (45 draw, 7 discard)
+
+Player 1, it is your turn.
+
+Heads:
+3: 5J (6)
+4: 2J (2)
+5: AS (1)
+
+Players:
+Player 1: 46 (46 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 52 (45 draw, 7 discard)
+
+Card value?
+Player 1, you are holding a Joker. Your move?
+Joker value?
+Joker value?
+Joker value?
+
+Heads:
+3: 5J (6)
+4: AJ (3)
+5: AS (1)
+
+Players:
+Player 1: 45 (45 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 52 (45 draw, 7 discard)
+
+Card value?
+Player 1, you are holding a Joker. Your move?
+Joker value?
+
+Heads:
+3: 5J (6)
+4: AJ (3)
+5: 10J (2)
+
+Players:
+Player 1: 44 (44 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 52 (45 draw, 7 discard)
+
+Card value?
+Player 1, you are holding a Joker. Your move?
+Joker value?
+
+Heads:
+3: 5J (6)
+4: AJ (4)
+5: 10J (2)
+
+Players:
+Player 1: 44 (44 draw, 0 discard)
+Player 2: 52 (45 draw, 7 discard)
+
+Player 2, it is your turn.
+
+Heads:
+3: 5J (6)
+4: AJ (4)
+5: 10J (2)
+
+Players:
+Player 1: 44 (44 draw, 0 discard)
+Player 2: 51 (44 draw, 7 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a AD. Your move?
+
+Heads:
+3: 5J (6)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 44 (44 draw, 0 discard)
+Player 2: 51 (44 draw, 7 discard)
+
+Player 1, it is your turn.
+
+Heads:
+3: 5J (6)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 43 (43 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 51 (44 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a AD. Your move?
+
+Heads:
+3: 5J (6)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 42 (42 draw, 0 discard) + 1 in hand, 1 remaining, 1 in reserve
+Player 2: 51 (44 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a AD. Your move?
+
+Heads:
+3: 5J (6)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 42 (42 draw, 0 discard) + 1 in hand, 1 remaining, 1 in reserve
+Player 2: 51 (44 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 4H. Your move?
+
+Heads:
+3: 4H (7)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 41 (41 draw, 0 discard) + 1 in hand, 0 remaining, 1 in reserve
+Player 2: 51 (44 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 3H. Your move?
+
+Heads:
+3: 3H (8)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 42 (42 draw, 0 discard)
+Player 2: 51 (44 draw, 7 discard)
+
+Player 2, it is your turn.
+
+Heads:
+3: 3H (8)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 42 (42 draw, 0 discard)
+Player 2: 50 (43 draw, 7 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 2H. Your move?
+
+Heads:
+3: 2H (9)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 42 (42 draw, 0 discard)
+Player 2: 49 (42 draw, 7 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a AH. Your move?
+
+Heads:
+3: AH (10)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 42 (42 draw, 0 discard)
+Player 2: 48 (41 draw, 7 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a KH. Your move?
+
+Heads:
+3: KH (11)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 42 (42 draw, 0 discard)
+Player 2: 48 (41 draw, 7 discard)
+
+Player 1, it is your turn.
+
+Heads:
+3: KH (11)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 41 (41 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 48 (41 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a QH. Your move?
+
+Heads:
+3: QH (12)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 40 (40 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 48 (41 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a JH. Your move?
+
+Heads:
+3: JH (13)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 39 (39 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 48 (41 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 10H. Your move?
+
+Heads:
+3: 10H (14)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 39 (39 draw, 0 discard)
+Player 2: 48 (41 draw, 7 discard)
+
+Player 2, it is your turn.
+
+Heads:
+3: 10H (14)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 39 (39 draw, 0 discard)
+Player 2: 47 (40 draw, 7 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 9H. Your move?
+
+Heads:
+3: 9H (15)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 39 (39 draw, 0 discard)
+Player 2: 46 (39 draw, 7 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 8H. Your move?
+
+Heads:
+3: 8H (16)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 39 (39 draw, 0 discard)
+Player 2: 45 (38 draw, 7 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 7H. Your move?
+
+Heads:
+3: 7H (17)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 39 (39 draw, 0 discard)
+Player 2: 45 (38 draw, 7 discard)
+
+Player 1, it is your turn.
+
+Heads:
+3: 7H (17)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 38 (38 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 45 (38 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 6H. Your move?
+
+Heads:
+3: 6H (18)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 37 (37 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 45 (38 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 5H. Your move?
+
+Heads:
+3: 5H (19)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 36 (36 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 45 (38 draw, 7 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 4H. Your move?
+
+Heads:
+3: 4H (20)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 36 (36 draw, 0 discard)
+Player 2: 45 (38 draw, 7 discard)
+
+Player 2, it is your turn.
+
+Heads:
+3: 4H (20)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 36 (36 draw, 0 discard)
+Player 2: 44 (37 draw, 7 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 2D. Your move?
+
+Heads:
+3: 4H (20)
+4: AD (5)
+5: 10J (2)
+
+Players:
+Player 1: 36 (36 draw, 0 discard)
+Player 2: 43 (36 draw, 7 discard) + 1 in hand, 1 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a QC. Your move?
+
+Heads:
+3: 4H (20)
+4: QC (6)
+5: 10J (2)
+
+Players:
+Player 1: 36 (36 draw, 0 discard)
+Player 2: 42 (35 draw, 7 discard) + 1 in hand, 0 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a KS. Your move?
+Card value?
+Suit?
+Card value?
+Suit?
+
+Heads:
+4: QC (6)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 36 (36 draw, 0 discard)
+Player 2: 62 (34 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: QC (6)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 35 (35 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 62 (34 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a JD. Your move?
+
+Heads:
+4: JD (7)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 34 (34 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 62 (34 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 10D. Your move?
+
+Heads:
+4: 10D (8)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 33 (33 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 62 (34 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 9D. Your move?
+
+Heads:
+4: 9D (9)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 32 (32 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 62 (34 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 8D. Your move?
+
+Heads:
+4: 8D (10)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 32 (32 draw, 0 discard)
+Player 2: 62 (34 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: 8D (10)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 32 (32 draw, 0 discard)
+Player 2: 61 (33 draw, 28 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 7D. Your move?
+
+Heads:
+4: 7D (11)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 32 (32 draw, 0 discard)
+Player 2: 60 (32 draw, 28 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 6D. Your move?
+
+Heads:
+4: 6D (12)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 32 (32 draw, 0 discard)
+Player 2: 59 (31 draw, 28 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 5D. Your move?
+
+Heads:
+4: 5D (13)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 32 (32 draw, 0 discard)
+Player 2: 58 (30 draw, 28 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 4D. Your move?
+
+Heads:
+4: 4D (14)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 32 (32 draw, 0 discard)
+Player 2: 58 (30 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: 4D (14)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 31 (31 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 58 (30 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 3D. Your move?
+
+Heads:
+4: 3D (15)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 30 (30 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 58 (30 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 2D. Your move?
+
+Heads:
+4: 2D (16)
+5: 10J (2)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 29 (29 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 58 (30 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 9S. Your move?
+
+Heads:
+4: 2D (16)
+5: 9S (3)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 28 (28 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 58 (30 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 8S. Your move?
+
+Heads:
+4: 2D (16)
+5: 8S (4)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 28 (28 draw, 0 discard)
+Player 2: 58 (30 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: 2D (16)
+5: 8S (4)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 28 (28 draw, 0 discard)
+Player 2: 57 (29 draw, 28 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 5S. Your move?
+
+Heads:
+4: 2D (16)
+5: 8S (4)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 28 (28 draw, 0 discard)
+Player 2: 56 (28 draw, 28 discard) + 1 in hand, 2 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 7S. Your move?
+
+Heads:
+4: 2D (16)
+5: 7S (5)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 28 (28 draw, 0 discard)
+Player 2: 55 (27 draw, 28 discard) + 1 in hand, 1 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 6S. Your move?
+
+Heads:
+4: 2D (16)
+5: 6S (6)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 28 (28 draw, 0 discard)
+Player 2: 54 (26 draw, 28 discard) + 1 in hand, 0 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 5S. Your move?
+
+Heads:
+4: 2D (16)
+5: 5S (7)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 28 (28 draw, 0 discard)
+Player 2: 55 (27 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: 2D (16)
+5: 5S (7)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 27 (27 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 55 (27 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 4S. Your move?
+
+Heads:
+4: 2D (16)
+5: 4S (8)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 26 (26 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 55 (27 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 3S. Your move?
+
+Heads:
+4: 2D (16)
+5: 3S (9)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 25 (25 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 55 (27 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 2S. Your move?
+
+Heads:
+4: 2D (16)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 24 (24 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 55 (27 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a AS. Your move?
+
+Heads:
+4: AS (17)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 24 (24 draw, 0 discard)
+Player 2: 55 (27 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: AS (17)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 24 (24 draw, 0 discard)
+Player 2: 54 (26 draw, 28 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a KS. Your move?
+
+Heads:
+4: KS (18)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 24 (24 draw, 0 discard)
+Player 2: 53 (25 draw, 28 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a QS. Your move?
+
+Heads:
+4: QS (19)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 24 (24 draw, 0 discard)
+Player 2: 52 (24 draw, 28 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a JS. Your move?
+
+Heads:
+4: JS (20)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 24 (24 draw, 0 discard)
+Player 2: 51 (23 draw, 28 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 10S. Your move?
+
+Heads:
+4: 10S (21)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 24 (24 draw, 0 discard)
+Player 2: 51 (23 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: 10S (21)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 23 (23 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 51 (23 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 10C. Your move?
+
+Heads:
+4: 10C (22)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 23 (23 draw, 0 discard)
+Player 2: 51 (23 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: 10C (22)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 23 (23 draw, 0 discard)
+Player 2: 50 (22 draw, 28 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 4D. Your move?
+
+Heads:
+4: 10C (22)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 23 (23 draw, 0 discard)
+Player 2: 49 (21 draw, 28 discard) + 1 in hand, 2 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 9C. Your move?
+
+Heads:
+4: 9C (23)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 23 (23 draw, 0 discard)
+Player 2: 48 (20 draw, 28 discard) + 1 in hand, 1 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 8C. Your move?
+
+Heads:
+4: 8C (24)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 23 (23 draw, 0 discard)
+Player 2: 47 (19 draw, 28 discard) + 1 in hand, 0 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 7C. Your move?
+
+Heads:
+4: 7C (25)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 23 (23 draw, 0 discard)
+Player 2: 48 (20 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: 7C (25)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 22 (22 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 48 (20 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 6C. Your move?
+
+Heads:
+4: 6C (26)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 21 (21 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 48 (20 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 5C. Your move?
+
+Heads:
+4: 5C (27)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 20 (20 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 48 (20 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 4C. Your move?
+
+Heads:
+4: 4C (28)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 19 (19 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 48 (20 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 3C. Your move?
+
+Heads:
+4: 3C (29)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 19 (19 draw, 0 discard)
+Player 2: 48 (20 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: 3C (29)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 19 (19 draw, 0 discard)
+Player 2: 47 (19 draw, 28 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 2C. Your move?
+
+Heads:
+4: 2C (30)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 19 (19 draw, 0 discard)
+Player 2: 46 (18 draw, 28 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a AC. Your move?
+
+Heads:
+4: AC (31)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 19 (19 draw, 0 discard)
+Player 2: 45 (17 draw, 28 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a KC. Your move?
+
+Heads:
+4: KC (32)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 19 (19 draw, 0 discard)
+Player 2: 44 (16 draw, 28 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a QC. Your move?
+
+Heads:
+4: QC (33)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 19 (19 draw, 0 discard)
+Player 2: 44 (16 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: QC (33)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 18 (18 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 44 (16 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a JC. Your move?
+
+Heads:
+4: JC (34)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 17 (17 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 44 (16 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 10C. Your move?
+
+Heads:
+4: 10C (35)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 16 (16 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 44 (16 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 9C. Your move?
+
+Heads:
+4: 9C (36)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 15 (15 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 44 (16 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 8C. Your move?
+
+Heads:
+4: 8C (37)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 15 (15 draw, 0 discard)
+Player 2: 44 (16 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: 8C (37)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 15 (15 draw, 0 discard)
+Player 2: 43 (15 draw, 28 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 7C. Your move?
+
+Heads:
+4: 7C (38)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 15 (15 draw, 0 discard)
+Player 2: 42 (14 draw, 28 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 6C. Your move?
+
+Heads:
+4: 6C (39)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 15 (15 draw, 0 discard)
+Player 2: 41 (13 draw, 28 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 5C. Your move?
+
+Heads:
+4: 5C (40)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 15 (15 draw, 0 discard)
+Player 2: 40 (12 draw, 28 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 4C. Your move?
+
+Heads:
+4: 4C (41)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 15 (15 draw, 0 discard)
+Player 2: 40 (12 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: 4C (41)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 14 (14 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 40 (12 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 4H. Your move?
+
+Heads:
+4: 4H (42)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 14 (14 draw, 0 discard)
+Player 2: 40 (12 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: 4H (42)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 14 (14 draw, 0 discard)
+Player 2: 39 (11 draw, 28 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 3C. Your move?
+
+Heads:
+4: 3C (43)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 14 (14 draw, 0 discard)
+Player 2: 38 (10 draw, 28 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 2C. Your move?
+
+Heads:
+4: 2C (44)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 14 (14 draw, 0 discard)
+Player 2: 37 (9 draw, 28 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a AC. Your move?
+
+Heads:
+4: AC (45)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 14 (14 draw, 0 discard)
+Player 2: 36 (8 draw, 28 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a KC. Your move?
+
+Heads:
+4: KC (46)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 14 (14 draw, 0 discard)
+Player 2: 36 (8 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: KC (46)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 13 (13 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 36 (8 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a KH. Your move?
+
+Heads:
+4: KH (47)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 13 (13 draw, 0 discard)
+Player 2: 36 (8 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: KH (47)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 13 (13 draw, 0 discard)
+Player 2: 35 (7 draw, 28 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 10C. Your move?
+
+Heads:
+4: 10C (48)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 13 (13 draw, 0 discard)
+Player 2: 34 (6 draw, 28 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 9C. Your move?
+
+Heads:
+4: 9C (49)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 13 (13 draw, 0 discard)
+Player 2: 33 (5 draw, 28 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 8C. Your move?
+
+Heads:
+4: 8C (50)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 13 (13 draw, 0 discard)
+Player 2: 32 (4 draw, 28 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 7C. Your move?
+
+Heads:
+4: 7C (51)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 13 (13 draw, 0 discard)
+Player 2: 32 (4 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: 7C (51)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 12 (12 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 32 (4 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 7C. Your move?
+
+Heads:
+4: 7C (52)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 12 (12 draw, 0 discard)
+Player 2: 32 (4 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: 7C (52)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 12 (12 draw, 0 discard)
+Player 2: 31 (3 draw, 28 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 6C. Your move?
+
+Heads:
+4: 6C (53)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 12 (12 draw, 0 discard)
+Player 2: 30 (2 draw, 28 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 5C. Your move?
+
+Heads:
+4: 5C (54)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 12 (12 draw, 0 discard)
+Player 2: 29 (1 draw, 28 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 4C. Your move?
+
+Heads:
+4: 4C (55)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 12 (12 draw, 0 discard)
+Player 2: 28 (0 draw, 28 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 3C. Your move?
+
+Heads:
+4: 3C (56)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 12 (12 draw, 0 discard)
+Player 2: 28 (0 draw, 28 discard)
+
+Player 1, it is your turn.
+
+Heads:
+4: 3C (56)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 11 (11 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 28 (0 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 2C. Your move?
+
+Heads:
+4: 2C (57)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 10 (10 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 28 (0 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a AC. Your move?
+
+Heads:
+4: AC (58)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 9 (9 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 28 (0 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a JC. Your move?
+
+Heads:
+4: JC (59)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 8 (8 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 28 (0 draw, 28 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 10C. Your move?
+
+Heads:
+4: 10C (60)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 8 (8 draw, 0 discard)
+Player 2: 28 (0 draw, 28 discard)
+
+Player 2, it is your turn.
+
+Heads:
+4: 10C (60)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 8 (8 draw, 0 discard)
+Player 2: 27 (27 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a KS. Your move?
+
+Heads:
+4: 10C (60)
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+
+Players:
+Player 1: 8 (8 draw, 0 discard)
+Player 2: 26 (26 draw, 0 discard) + 1 in hand, 2 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a KS. Your move?
+Card value?
+Suit?
+Card value?
+Suit?
+
+Heads:
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+8: 5D (1)
+9: 5D (1)
+
+Players:
+Player 1: 8 (8 draw, 0 discard)
+Player 2: 86 (25 draw, 61 discard)
+
+Player 1, it is your turn.
+
+Heads:
+5: 2S (10)
+6: JS (1)
+7: 10S (1)
+8: 5D (1)
+9: 5D (1)
+
+Players:
+Player 1: 7 (7 draw, 0 discard) + 1 in hand, 4 remaining, 0 in reserve
+Player 2: 86 (25 draw, 61 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 9C. Your move?
+
+Heads:
+5: 2S (10)
+6: JS (1)
+7: 9C (2)
+8: 5D (1)
+9: 5D (1)
+
+Players:
+Player 1: 6 (6 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 86 (25 draw, 61 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 8C. Your move?
+
+Heads:
+5: 2S (10)
+6: JS (1)
+7: 8C (3)
+8: 5D (1)
+9: 5D (1)
+
+Players:
+Player 1: 5 (5 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 86 (25 draw, 61 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 7C. Your move?
+
+Heads:
+5: 2S (10)
+6: JS (1)
+7: 7C (4)
+8: 5D (1)
+9: 5D (1)
+
+Players:
+Player 1: 4 (4 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 86 (25 draw, 61 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 6C. Your move?
+
+Heads:
+5: 2S (10)
+6: JS (1)
+7: 6C (5)
+8: 5D (1)
+9: 5D (1)
+
+Players:
+Player 1: 3 (3 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 86 (25 draw, 61 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 5C. Your move?
+
+Heads:
+5: 2S (10)
+6: JS (1)
+7: 5C (6)
+8: 5D (1)
+9: 5D (1)
+
+Players:
+Player 1: 3 (3 draw, 0 discard)
+Player 2: 86 (25 draw, 61 discard)
+
+Player 2, it is your turn.
+
+Heads:
+5: 2S (10)
+6: JS (1)
+7: 5C (6)
+8: 5D (1)
+9: 5D (1)
+
+Players:
+Player 1: 3 (3 draw, 0 discard)
+Player 2: 85 (24 draw, 61 discard) + 1 in hand, 4 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a KS. Your move?
+
+Heads:
+5: 2S (10)
+6: JS (1)
+7: 5C (6)
+8: 5D (1)
+9: 5D (1)
+
+Players:
+Player 1: 3 (3 draw, 0 discard)
+Player 2: 84 (23 draw, 61 discard) + 1 in hand, 3 remaining, 1 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a KS. Your move?
+Card value?
+Suit?
+Card value?
+Suit?
+
+Heads:
+6: JS (1)
+7: 5C (6)
+8: 5D (1)
+9: 5D (1)
+10: JH (1)
+11: 8S (1)
+
+Players:
+Player 1: 3 (3 draw, 0 discard)
+Player 2: 94 (22 draw, 72 discard)
+
+Player 1, it is your turn.
+
+Heads:
+6: JS (1)
+7: 5C (6)
+8: 5D (1)
+9: 5D (1)
+10: JH (1)
+11: 8S (1)
+
+Players:
+Player 1: 2 (2 draw, 0 discard) + 1 in hand, 5 remaining, 0 in reserve
+Player 2: 94 (22 draw, 72 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 9C. Your move?
+
+Heads:
+6: JS (1)
+7: 5C (6)
+8: 5D (1)
+9: 5D (1)
+10: JH (1)
+11: 8S (1)
+
+Players:
+Player 1: 1 (1 draw, 0 discard) + 1 in hand, 4 remaining, 1 in reserve
+Player 2: 94 (22 draw, 72 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 9C. Your move?
+
+Heads:
+6: JS (1)
+7: 5C (6)
+8: 5D (1)
+9: 5D (1)
+10: 9C (2)
+11: 8S (1)
+
+Players:
+Player 1: 0 (0 draw, 0 discard) + 1 in hand, 3 remaining, 1 in reserve
+Player 2: 94 (22 draw, 72 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a KH. Your move?
+Card value?
+Suit?
+Card value?
+Suit?
+
+Heads:
+7: 5C (6)
+8: 5D (1)
+9: 5D (1)
+10: 9C (2)
+11: 8S (1)
+12: 3S (1)
+13: 4S (1)
+
+Players:
+Player 1: 1 (1 draw, 0 discard)
+Player 2: 94 (22 draw, 72 discard)
+
+Player 2, it is your turn.
+
+Heads:
+7: 5C (6)
+8: 5D (1)
+9: 5D (1)
+10: 9C (2)
+11: 8S (1)
+12: 3S (1)
+13: 4S (1)
+
+Players:
+Player 1: 1 (1 draw, 0 discard)
+Player 2: 93 (21 draw, 72 discard) + 1 in hand, 6 remaining, 0 in reserve
+
+Card value?
+Suit?
+Player 2, you are holding a 5D. Your move?
+
+Heads:
+7: 5D (7)
+8: 5D (1)
+9: 5D (1)
+10: 9C (2)
+11: 8S (1)
+12: 3S (1)
+13: 4S (1)
+
+Players:
+Player 1: 1 (1 draw, 0 discard)
+Player 2: 93 (21 draw, 72 discard)
+
+Player 1, it is your turn.
+
+Heads:
+7: 5D (7)
+8: 5D (1)
+9: 5D (1)
+10: 9C (2)
+11: 8S (1)
+12: 3S (1)
+13: 4S (1)
+
+Players:
+Player 1: 0 (0 draw, 0 discard) + 1 in hand, 6 remaining, 0 in reserve
+Player 2: 93 (21 draw, 72 discard)
+
+Card value?
+Suit?
+Player 1, you are holding a 5S. Your move?
+Player 1 wins!
